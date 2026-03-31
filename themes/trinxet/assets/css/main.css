@@ -1,0 +1,134 @@
+:root {
+  --primary: #025288;
+}
+
+body {
+  display: grid;
+  color: #222;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  line-height: 1.5;
+  padding: 0px;
+  margin: 0px;
+  bottom: 0;
+  min-height: 100%;
+}
+
+main {
+  display: grid;
+  grid-template-columns: .5fr 2fr .5fr;
+  grid-template-rows: 1fr;
+  align-content: center;
+  justify-content: center;
+}
+
+.col-left {
+  display: grid;
+}
+
+.col-middle {
+  display: grid;
+  grid-column-start: 2;
+}
+
+.col-right {
+  display: grid;
+}
+
+/*Main navigation*/
+@media screen and (max-width: 2560px) { 
+
+  header {
+    border-bottom: 1px solid #c0c0c0;
+    margin-bottom: 9rem;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    margin: 1rem;
+    overflow: hidden;
+    border-radius: 1rem;
+    flex-direction: column;
+    width: 95%;
+  }
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  text-decoration: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: var(--primary);
+}
+
+nav ul li {
+  display: flex;
+  text-align: center;
+}
+
+nav ul li a {
+  display: flex;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-radius: 1rem;
+}
+
+nav ul li a:hover {
+  background-color: #111111;
+}
+
+/* Mobile Styles Navigation */
+@media screen and (max-width: 768px) {
+
+  header {
+    border-bottom: 1px solid #c0c0c0;
+    margin-bottom: 10rem;
+  }
+
+  nav {
+    display: flex;
+    background-color: white;
+    position: absolute;
+    left: 0;
+    width: 95%;
+  }
+
+  main {
+    grid-template-columns: 1fr;
+  }
+}
+
+/*Brand Logo Class*/
+#brand-logo {
+  float: left;
+  padding: 0;
+}
+
+/*Link style*/
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: aqua;
+}
+
+footer {
+  display: grid;
+  overflow: hidden;
+  background-color: var(--primary);
+  color: white;
+  margin: 0;
+  padding: 1rem;
+  width: 100%;
+  height: 3rem;
+}
+

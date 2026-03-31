@@ -1,0 +1,4 @@
+baseURL = 'https://techedcollab.org/'
+languageCode = 'en-us'
+title = 'Technology Education Collaborative'
+theme = 'trinxet'

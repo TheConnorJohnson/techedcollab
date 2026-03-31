@@ -1,0 +1,45 @@
+baseURL = 'https://techedcollab.org/'
+languageCode = 'en-US'
+title = 'Technology Education Collaborative'
+
+[menus]
+
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 10
+
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 20
+
+  [[menus.main]]
+    name = 'People'
+    pageRef = '/people'
+    weight = 30
+
+  [[menus.main]]
+    name = 'Directions'
+    pageRef = '/directions'
+    weight = 40
+
+  [[menus.main]]
+    name = 'Podcast'
+    pageRef = '/podcast'
+    weight = 50
+
+  [[menus.main]]
+    name = 'Events'
+    pageRef = '/events'
+    weight = 60
+
+  [[menus.main]]
+    name = 'Donate'
+    pageRef = '/donate'
+    weight = 70
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = '0.146.0'
