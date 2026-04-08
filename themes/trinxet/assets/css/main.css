@@ -47,11 +47,12 @@ main {
     display: flex;
     justify-content: space-between;
     position: fixed;
-    margin: 1rem;
+    top: 1rem;
+    left: 1rem;
+    right: 1rem;
     overflow: hidden;
     border-radius: 1rem;
     flex-direction: column;
-    width: 100%;
   }
 }
 
