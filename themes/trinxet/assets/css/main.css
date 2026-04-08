@@ -15,7 +15,7 @@ body {
 
 main {
   display: grid;
-  grid-template-columns: .5fr 2fr .5fr;
+  grid-template-columns: .5fr 1fr .5fr;
   grid-template-rows: 1fr;
   align-content: center;
   justify-content: center;
@@ -28,6 +28,7 @@ main {
 .col-middle {
   display: grid;
   grid-column-start: 2;
+  grid-column-end: 3;
 }
 
 .col-right {
@@ -50,7 +51,7 @@ main {
     overflow: hidden;
     border-radius: 1rem;
     flex-direction: column;
-    width: 95%;
+    width: 100%;
   }
 }
 
@@ -97,7 +98,7 @@ nav ul li a:hover {
     background-color: white;
     position: absolute;
     left: 0;
-    width: 95%;
+    width: 100%;
   }
 
   main {
