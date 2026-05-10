@@ -1,6 +1,5 @@
 +++
 draft = false
-menus = 'main'
 +++
 
 # Technology Education Collaborative (TEC)
