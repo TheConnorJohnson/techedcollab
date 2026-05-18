@@ -20,4 +20,16 @@ All experience and license levels welcome! Feel free to drop in even if you're j
 
 {{< /cards >}}
 
+{{< cards link="https://www.zeffy.com/en-US/ticketing/code-and-chill-may--2026" title="Code & Chill (May 2026)" image="/TEC_Ham.webp" subtitle="TEC logo">}}
+
+Meet like-minded programmers to chat, collaborate, or simply enjoy working on your own project at your own pace.
+
+The group is not pigeonholed into using one specific language meaning anyone from any background or tech stack can join.
+
+🗓️  Wednesday, May 27 at 6 p.m.
+
+🚗  [Parking Map & Directions](https://techedcollab.org/directions/)
+
+{{< /cards >}}
+
 ## Past Events

@@ -13,8 +13,8 @@ Renders a menu for the given menu ID.
 {{- with index site.Menus $menuID }}
   <nav>
     <ul>
-      <li id = "brand-logo" alt="Technology Education Collaborative Logo">
-        <a href="/"><img src="/TEC_logo.webp"></a>
+      <li id = "brand-logo">
+        <a href="/"><img src="/TEC_logo.webp" alt="Technology Education Collaborative Logo"></a>
       </li>
       {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
     </ul>
