@@ -87,7 +87,7 @@ nav ul li a:hover {
 }
 
 /* Mobile Styles Navigation */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
 
   header {
     border-bottom: 1px solid #c0c0c0;
@@ -104,6 +104,46 @@ nav ul li a:hover {
 
   main {
     grid-template-columns: 1fr;
+  }
+
+  /* Card Styling on Mobile */
+
+  .card {
+    display: grid;
+    max-width: 50%;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .card-title {
+    display: flex;
+    justify-content: left;
+    align-self: start;
+    padding: 1rem;
+    color: white;
+    background-color: var(--primary);
+  }
+
+  .card-content {
+    display: grid;
+    justify-content: left;
+    place-items: start;
+    padding: 0 1rem 0 1rem;
+  }
+
+  .card-btn {
+    display: inline-block;
+    color: white;
+    background-color: var(--primary);
+    padding: 1rem;
+    border-radius: 0 0 1rem 1rem;
+  }
+
+  .card-btn:hover {
+    background-color: #111111;
   }
 }
 
@@ -134,3 +174,42 @@ footer {
   height: 3rem;
 }
 
+/* Card Styling */
+
+.card {
+  display: grid;
+  max-width: 50rem;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1rem;
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+  display: flex;
+  justify-content: left;
+  align-self: start;
+  padding: 1rem;
+  color: white;
+  background-color: var(--primary);
+}
+
+.card-content {
+  display: grid;
+  justify-content: left;
+  place-items: start;
+  padding: 0 1rem 0 1rem;
+}
+
+.card-btn {
+  display: inline-block;
+  color: white;
+  background-color: var(--primary);
+  padding: 1rem;
+  border-radius: 0 0 1rem 1rem;
+}
+
+.card-btn:hover {
+  background-color: #111111;
+}
