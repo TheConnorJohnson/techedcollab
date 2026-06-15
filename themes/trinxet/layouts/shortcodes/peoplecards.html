@@ -1,0 +1,14 @@
+<!--/layouts/shortcodes/peoplecards.html-->
+<!-- Note: cards are made for the people page specifically. -->
+<div class="peoplecards">
+
+	<h3 class="peoplecard-title">{{ .Get "title" }}</h3>
+
+	<div class="peoplecard-content">
+		{{ .Inner | markdownify }}
+	</div>
+
+	{{ with .Get "link" }}
+	<a href="{{ . }}" class="peoplecard-btn">Continue Reading</a>
+	{{ end }}
+</div>

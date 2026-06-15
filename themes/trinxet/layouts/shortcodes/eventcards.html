@@ -1,0 +1,14 @@
+<!--/layouts/shortcodes/eventcards.html-->
+<!-- Note: cards are made for the event page specifically. -->
+<div class="eventcards">
+
+	<h3 class="eventcard-title">{{ .Get "title" }}</h3>
+
+	<div class="eventcard-content">
+		{{ .Inner | markdownify }}
+	</div>
+
+	{{ with .Get "link" }}
+	<a href="{{ . }}" class="eventcard-btn">Continue Reading</a>
+	{{ end }}
+</div>
