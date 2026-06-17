@@ -283,15 +283,6 @@ footer {
   padding: 0 1rem 1rem 1rem;
 }
 
-.peoplecard-btn {
+.peoplecard-image {
   display: grid;
-  color: white;
-  background-color: var(--primary);
-  justify-content: center;
-  padding: 1rem;
-  border-radius: 0 0 1rem 1rem;
-}
-
-.peoplecard-btn:hover {
-  background-color: #111111;
 }
