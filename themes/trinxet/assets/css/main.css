@@ -27,6 +27,7 @@ main {
 
 .col-left {
   display: grid;
+  overflow: hidden;
 }
 
 .col-middle {
@@ -37,6 +38,7 @@ main {
 
 .col-right {
   display: grid;
+  overflow: hidden;
 }
 
 /*Main navigation*/
@@ -135,14 +137,15 @@ nav ul li a:hover {
     box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
   }
 
-  /* Embedded elements such as calendar and Zeffy Donation form */
-
-  iframe {
-    position: relative;
-    top: 0;
-    left: 0;
-    width: 25rem;
-    height: 25rem;
+  .peoplecards {
+    display: grid;
+    min-width: 20rem;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem 0 0 0;
+    border-radius: 1rem;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
   }
 }
 
@@ -167,7 +170,7 @@ footer {
   overflow: hidden;
   background-color: var(--primary);
   color: white;
-  margin: 0;
+  margin: 2rem 0 0 0;
   padding: 1rem;
   width: 100%;
   height: 3rem;
@@ -252,5 +255,46 @@ footer {
 }
 
 .eventcard-btn:hover {
+  background-color: #111111;
+}
+
+/* People Card Styling */
+
+.peoplecards {
+  display: grid;
+  max-width: 50rem;
+  background-color: white;
+  justify-content: center;
+  margin: 1rem 0 0 0;
+  align-items: center;
+  border-radius: 1rem;
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.peoplecard-title {
+  display: grid;
+  justify-content: left;
+  padding: 1rem;
+  color: white;
+  background-color: var(--primary);
+}
+
+.peoplecard-content {
+  display: grid;
+  justify-content: left;
+  place-items: start;
+  padding: 0 1rem 1rem 1rem;
+}
+
+.peoplecard-btn {
+  display: grid;
+  color: white;
+  background-color: var(--primary);
+  justify-content: center;
+  padding: 1rem;
+  border-radius: 0 0 1rem 1rem;
+}
+
+.peoplecard-btn:hover {
   background-color: #111111;
 }

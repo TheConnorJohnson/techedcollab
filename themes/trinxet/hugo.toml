@@ -1,5 +1,6 @@
 baseURL = 'https://techedcollab.org/'
-languageCode = 'en-US'
+direction = 'ltr'
+locale = 'en-US'
 title = 'Technology Education Collaborative'
 
 [menus]
@@ -42,4 +43,4 @@ title = 'Technology Education Collaborative'
 [module]
   [module.hugoVersion]
     extended = false
-    min = '0.146.0'
+    min = '0.158.0'

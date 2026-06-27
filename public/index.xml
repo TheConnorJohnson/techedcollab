@@ -1,60 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Technology Education Collaborative</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Technology Education Collaborative</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;The &lt;strong&gt;Technology Education Collaborative&lt;/strong&gt; fosters a robust Arizona tech community. We do this by providing virtual and in-person spaces to meet, learn, collaborate and advocate. Our articles, newsletters and events inform and educate both professional and aspiring technologists. We’re bringing Arizona technologists together to support the safe, secure future they work to create each and every day.&lt;/p&gt;&#xA;&lt;p&gt;TEC believes in conversation, collaboration and people learning from each other. That’s why &lt;strong&gt;we offer local tech meetups a free Discord channel&lt;/strong&gt; on &lt;a href=&#34;https://discord.gg/EDfSeTT2Jb&#34;&gt;our server&lt;/a&gt;. &lt;strong&gt;We’ll handle the setup, you bring the community.&lt;/strong&gt; Even if you’re brand new to Discord, we can help you leverage this awesome platform to streamline meeting planning and keep the great conversation going. If you run a tech meetup and are &lt;strong&gt;tired of scrambling to find a venue&lt;/strong&gt;, we offer members introductions to &lt;strong&gt;three fully-equipped venues&lt;/strong&gt; to get together and talk tech.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ACSL Directions &amp; Parking</title>
-      <link>http://localhost:1313/directions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/directions/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;GateWay Community College - Washington Campus&#xA;108 N. 40th St.&#xA;Phoenix, AZ 85034&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The ACSL is located in Room 2108 of the MA building.&lt;/p&gt;&#xA;&lt;p&gt;Park in lots 3 and 4 at Gateway Community College on 40th and Washington Street. The Advanced Cyber Systems Lab is located on the second floor of the MA building in room 2108. Go through the double glass doors and up the staircase to your immediate left. The room is the first door on the right in the hallway. The wall is bright orange so you can’t miss it. There is also a sign on the door with a number you can call for someone to come down and lead the way.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ACSL Podcast Booking</title>
-      <link>http://localhost:1313/podcast/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/podcast/</guid>
-      <description>&lt;p&gt;For different viewing options (such as a daily/weekly/monthly view), you can visit the booking page here:&lt;/p&gt;&#xA;&lt;p&gt;Check out TEC&amp;rsquo;s podcast series TEC Talks, now on &lt;a href=&#34;https://www.youtube.com/@TechEdCollab&#34;&gt;Youtube&lt;/a&gt;.&lt;/p&gt;&#xA;&#xA;&lt;iframe src=&#34;https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0ZiU3XrR_kw0Z6Ewxl1Cd_Y96MQwr83IFqjPrekHSAXAJqMR0Y4gziayDR3Sg8_ZhmVsVcRChU&#34; width=&#34;735&#34; height=&#34;950&#34;&gt;&#xA;&lt;/iframe&gt;</description>
-    </item>
-    <item>
-      <title>Donate</title>
-      <link>http://localhost:1313/donate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/donate/</guid>
-      <description>&lt;p&gt;Help us put on more awesome tech events! Technology Education Collaborative (TEC) is &lt;a href=&#34;https://drive.google.com/file/d/1kkfdJAmZI0Yp2IDTWOeUq7-sLqoj8GJ9/view?usp=sharing&amp;amp;ref=techedcollab.org&#34;&gt;an Arizona 501(c)3&lt;/a&gt; and all contributions are tax deductible. Please donate by using the form below.&lt;/p&gt;&#xA;&#xA;&lt;iframe src=&#34;https://www.zeffy.com/embed/donation-form/66e8e20e-62ad-46b5-baf7-c67377359369&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&#xA;&lt;p&gt;Thank you for supporting your local Arizona tech community!&lt;/p&gt;&#xA;&lt;p&gt;If you have any questions about donations please contact us at &lt;a href=&#34;mailto:contact@techedcollab.org&#34;&gt;contact@techedcollab.org&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Events</title>
-      <link>http://localhost:1313/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/</guid>
-      <description>&lt;p&gt;Events hosted by or associated with TEC.&lt;/p&gt;&#xA;&lt;p&gt;🚗  &lt;a href=&#34;https://techedcollab.org/directions/&#34;&gt;Parking Map &amp;amp; Directions&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;card&#34;&gt;&#xA;&#xA;&#x9;&lt;h3 class=&#34;card-title&#34;&gt;Code &amp;amp; Chill - June 2026&lt;/h3&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;card-content&#34;&gt;&#xA;&#x9;&#x9;&lt;p&gt;Meet like-minded programmers to chat, collaborate, or simply enjoy working on your own project at your own pace.&lt;/p&gt;&#xA;&lt;p&gt;The group is not pigeonholed into using one specific language meaning anyone from any background or tech stack can join.&lt;/p&gt;&#xA;&lt;p&gt;🗓️  Thursday, June 25 at 6 p.m.&lt;/p&gt;&#xA;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&#xA;&#x9;&lt;a href=&#34;https://www.zeffy.com/en-US/ticketing/code-and-chill-june--2026&#34; class=&#34;card-btn&#34;&gt;Register&lt;/a&gt;&#xA;&#x9;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;past-events&#34;&gt;Past Events&lt;/h2&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;card&#34;&gt;&#xA;&#xA;&#x9;&lt;h3 class=&#34;card-title&#34;&gt;Hardware Happy Hour (3H) Phoenix - June 2026&lt;/h3&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;card-content&#34;&gt;&#xA;&#x9;&#x9;&lt;p&gt;The Hardware Happy Hour is a social get-together of engineers, designers, coders, and builders, both hobbyists and professionals. There are no presentations or an agenda. We just get together to talk, share projects, offer suggestions, and often learn in the process.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TEC Leadership</title>
-      <link>http://localhost:1313/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/</guid>
-      <description>&lt;div class=&#34;peoplecards&#34;&gt;&#xA;&#xA;&#x9;&lt;h3 class=&#34;peoplecard-title&#34;&gt;Christina Eichelkraut, CEO&lt;/h3&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;peoplecard-content&#34;&gt;&#xA;&#x9;&#x9;Christina is a communications professional who believes in the power of organizing people on a hyper-local level. She has been an advocate for neighborhood infrastructure improvements, endorsed proper funding for education and supports accessible neighborhoods. A former print journalist, Christina founded a digital communications company in 2011 that specializes in translating complex policy and technical ideas into clear, accessible language. A word nerd and political junkie, Christina believes when policy is well considered and properly implemented it can lead to a more equitable, just and innovative world.&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;peoplecards&#34;&gt;&#xA;&#xA;&#x9;&lt;h3 class=&#34;peoplecard-title&#34;&gt;Connor Johnson, CTO&lt;/h3&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;peoplecard-content&#34;&gt;&#xA;&#x9;&#x9;As the Chief Technology Officer and a Board Member of Technology Education Collaborative (TEC), Connor aims to inform people about technology and help students break into the I.T. industry. Currently he works as a senior web development and is the proud owner of Design Hewer LLC. He has worked alongside various companies and universities to expand their audience, improve their code quality, and improve their overall online presence.&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;peoplecards&#34;&gt;&#xA;&#xA;&#x9;&lt;h3 class=&#34;peoplecard-title&#34;&gt;Laura Ellington, Board Member&lt;/h3&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;peoplecard-content&#34;&gt;&#xA;&#x9;&#x9;&lt;p&gt;Upon receiving my Bachelor of Science, Laura became a Member of Technical Staff I (progressing to Member of Technical Staff II, Lead Engineer, Staff Engineer) in a research and development telecommunications engineering corporation.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TEC Posts</title>
-      <link>http://localhost:1313/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/</guid>
-      <description>&lt;div class=&#34;eventcards&#34;&gt;&#xA;&#xA;&#x9;&lt;h3 class=&#34;eventcard-title&#34;&gt;April 2025 TEC News &amp;amp; Events&lt;/h3&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;eventcard-content&#34;&gt;&#xA;&#x9;&#x9;&lt;p&gt;By Christina Eichelkraut — Apr 6, 2025&lt;/p&gt;&#xA;&lt;p&gt;We took a tour of Iron Mountain Data Centers and enjoyed getting to see&#xA;just about everything. Then we hosted State CISO Ryan Murray for a tour of&#xA;ACSL where he generously sat down with us for not one but two TEC Talks&#xA;podcast episodes (coming soon - stay tuned!). We held our first Ham Radio&#xA;Study Group &amp;amp; Meetup during which Wyatt gave a presentation of some of&#xA;the basics, and we generally just got all the ducks in a row for all the great&#xA;April events you&amp;rsquo;ll read about below. We&amp;rsquo;ll also be recording a TEC Talks&#xA;episode with one of our favorite engineers and Civil Air Patrol coaches, Laura&#xA;Ellington. And, stay tuned for information on a three-session Linux&#xA;workshop for non-techies who want to stop using Windows coming in&#xA;May.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Home on Technology Education Collaborative</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content in Home on Technology Education Collaborative</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;The &lt;strong&gt;Technology Education Collaborative&lt;/strong&gt; fosters a robust Arizona tech community. We do this by providing virtual and in-person spaces to meet, learn, collaborate and advocate. Our articles, newsletters and events inform and educate both professional and aspiring technologists. We’re bringing Arizona technologists together to support the safe, secure future they work to create each and every day.&lt;/p&gt;&#xA;&lt;p&gt;TEC believes in conversation, collaboration and people learning from each other. That’s why &lt;strong&gt;we offer local tech meetups a free Discord channel&lt;/strong&gt; on &lt;a href=&#34;https://discord.gg/EDfSeTT2Jb&#34;&gt;our server&lt;/a&gt;. &lt;strong&gt;We’ll handle the setup, you bring the community.&lt;/strong&gt; Even if you’re brand new to Discord, we can help you leverage this awesome platform to streamline meeting planning and keep the great conversation going. If you run a tech meetup and are &lt;strong&gt;tired of scrambling to find a venue&lt;/strong&gt;, we offer members introductions to &lt;strong&gt;three fully-equipped venues&lt;/strong&gt; to get together and talk tech.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ACSL Directions &amp; Parking</title>
+				<link>http://localhost:1313/directions/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/directions/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;GateWay Community College - Washington Campus&#xA;108 N. 40th St.&#xA;Phoenix, AZ 85034&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The ACSL is located in Room 2108 of the MA building.&lt;/p&gt;&#xA;&lt;p&gt;Park in lots 3 and 4 at Gateway Community College on 40th and Washington Street. The Advanced Cyber Systems Lab is located on the second floor of the MA building in room 2108. Go through the double glass doors and up the staircase to your immediate left. The room is the first door on the right in the hallway. The wall is bright orange so you can’t miss it. There is also a sign on the door with a number you can call for someone to come down and lead the way.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ACSL Podcast Booking</title>
+				<link>http://localhost:1313/podcast/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/podcast/</guid>
+				<description>&lt;p&gt;For different viewing options (such as a daily/weekly/monthly view), you can visit the booking page here:&lt;/p&gt;&#xA;&lt;p&gt;Check out TEC&amp;rsquo;s podcast series TEC Talks, now on &lt;a href=&#34;https://www.youtube.com/@TechEdCollab&#34;&gt;Youtube&lt;/a&gt;.&lt;/p&gt;&#xA;&#xA;&lt;iframe src=&#34;https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0ZiU3XrR_kw0Z6Ewxl1Cd_Y96MQwr83IFqjPrekHSAXAJqMR0Y4gziayDR3Sg8_ZhmVsVcRChU&#34; width=&#34;735&#34; height=&#34;950&#34;&gt;&#xA;&lt;/iframe&gt;</description>
+			</item>
+			<item>
+				<title>Donate</title>
+				<link>http://localhost:1313/donate/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/donate/</guid>
+				<description>&lt;p&gt;Help us put on more awesome tech events! Technology Education Collaborative (TEC) is &lt;a href=&#34;https://drive.google.com/file/d/1kkfdJAmZI0Yp2IDTWOeUq7-sLqoj8GJ9/view?usp=sharing&amp;amp;ref=techedcollab.org&#34;&gt;an Arizona 501(c)3&lt;/a&gt; and all contributions are tax deductible. Please donate by using the form below.&lt;/p&gt;&#xA;&#xA;&lt;iframe src=&#34;https://www.zeffy.com/embed/donation-form/66e8e20e-62ad-46b5-baf7-c67377359369&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&#xA;&lt;p&gt;Thank you for supporting your local Arizona tech community!&lt;/p&gt;&#xA;&lt;p&gt;If you have any questions about donations please contact us at &lt;a href=&#34;mailto:contact@techedcollab.org&#34;&gt;contact@techedcollab.org&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Events</title>
+				<link>http://localhost:1313/events/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/</guid>
+				<description>&lt;p&gt;Events hosted by or associated with TEC.&lt;/p&gt;&#xA;&lt;p&gt;🚗  &lt;a href=&#34;https://techedcollab.org/directions/&#34;&gt;Parking Map &amp;amp; Directions&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;card&#34;&gt;&#xA;&#xA;&#x9;&lt;h3 class=&#34;card-title&#34;&gt;Code &amp;amp; Chill - June 2026&lt;/h3&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;card-content&#34;&gt;&#xA;&#x9;&#x9;&lt;p&gt;Meet like-minded programmers to chat, collaborate, or simply enjoy working on your own project at your own pace.&lt;/p&gt;&#xA;&lt;p&gt;The group is not pigeonholed into using one specific language meaning anyone from any background or tech stack can join.&lt;/p&gt;&#xA;&lt;p&gt;🗓️  Thursday, June 25 at 6 p.m.&lt;/p&gt;&#xA;&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&#xA;&#x9;&lt;a href=&#34;https://www.zeffy.com/en-US/ticketing/code-and-chill-june--2026&#34; class=&#34;card-btn&#34;&gt;Register&lt;/a&gt;&#xA;&#x9;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;past-events&#34;&gt;Past Events&lt;/h2&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;card&#34;&gt;&#xA;&#xA;&#x9;&lt;h3 class=&#34;card-title&#34;&gt;Hardware Happy Hour (3H) Phoenix - June 2026&lt;/h3&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;card-content&#34;&gt;&#xA;&#x9;&#x9;&lt;p&gt;The Hardware Happy Hour is a social get-together of engineers, designers, coders, and builders, both hobbyists and professionals. There are no presentations or an agenda. We just get together to talk, share projects, offer suggestions, and often learn in the process.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>TEC Leadership</title>
+				<link>http://localhost:1313/people/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/people/</guid>
+				<description>&lt;div class=&#34;peoplecards&#34;&gt;&#xA;&#xA;&#x9;&lt;h3 class=&#34;peoplecard-title&#34;&gt;Christina Eichelkraut, CEO&lt;/h3&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;peoplecard-content&#34;&gt;&#xA;&#x9;&#x9;Christina is a communications professional who believes in the power of organizing people on a hyper-local level. She has been an advocate for neighborhood infrastructure improvements, endorsed proper funding for education and supports accessible neighborhoods. A former print journalist, Christina founded a digital communications company in 2011 that specializes in translating complex policy and technical ideas into clear, accessible language. A word nerd and political junkie, Christina believes when policy is well considered and properly implemented it can lead to a more equitable, just and innovative world.&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;peoplecards&#34;&gt;&#xA;&#xA;&#x9;&lt;h3 class=&#34;peoplecard-title&#34;&gt;Connor Johnson, CTO&lt;/h3&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;peoplecard-content&#34;&gt;&#xA;&#x9;&#x9;As the Chief Technology Officer and a Board Member of Technology Education Collaborative (TEC), Connor aims to inform people about technology and help students break into the I.T. industry. Currently he works as a senior web development and is the proud owner of Design Hewer LLC. He has worked alongside various companies and universities to expand their audience, improve their code quality, and improve their overall online presence.&#xA;&#x9;&lt;/div&gt;&#xA;&#xA;&#x9;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;peoplecards&#34;&gt;&#xA;&#xA;&#x9;&lt;h3 class=&#34;peoplecard-title&#34;&gt;Laura Ellington, Board Member&lt;/h3&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;peoplecard-content&#34;&gt;&#xA;&#x9;&#x9;&lt;p&gt;Upon receiving my Bachelor of Science, Laura became a Member of Technical Staff I (progressing to Member of Technical Staff II, Lead Engineer, Staff Engineer) in a research and development telecommunications engineering corporation.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>TEC Posts</title>
+				<link>http://localhost:1313/posts/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/</guid>
+				<description>&lt;div class=&#34;eventcards&#34;&gt;&#xA;&#xA;&#x9;&lt;h3 class=&#34;eventcard-title&#34;&gt;April 2025 TEC News &amp;amp; Events&lt;/h3&gt;&#xA;&#xA;&#x9;&lt;div class=&#34;eventcard-content&#34;&gt;&#xA;&#x9;&#x9;&lt;p&gt;By Christina Eichelkraut — Apr 6, 2025&lt;/p&gt;&#xA;&lt;p&gt;We took a tour of Iron Mountain Data Centers and enjoyed getting to see&#xA;just about everything. Then we hosted State CISO Ryan Murray for a tour of&#xA;ACSL where he generously sat down with us for not one but two TEC Talks&#xA;podcast episodes (coming soon - stay tuned!). We held our first Ham Radio&#xA;Study Group &amp;amp; Meetup during which Wyatt gave a presentation of some of&#xA;the basics, and we generally just got all the ducks in a row for all the great&#xA;April events you&amp;rsquo;ll read about below. We&amp;rsquo;ll also be recording a TEC Talks&#xA;episode with one of our favorite engineers and Civil Air Patrol coaches, Laura&#xA;Ellington. And, stay tuned for information on a three-session Linux&#xA;workshop for non-techies who want to stop using Windows coming in&#xA;May.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,4 +1,5 @@
 baseURL = 'https://techedcollab.org/'
-languageCode = 'en-us'
+direction = 'ltr'
+locale = 'en-US'
 title = 'Technology Education Collaborative'
 theme = 'trinxet'
