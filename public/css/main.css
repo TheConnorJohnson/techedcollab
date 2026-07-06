@@ -60,6 +60,11 @@ main {
     border-radius: 1rem;
     flex-direction: column;
   }
+
+  .iframe {
+    height: 700px;
+    width: 600px;
+  }
 }
 
 nav ul {
@@ -113,20 +118,14 @@ nav ul li a:hover {
     min-width: 0;
   }
 
+  .iframe {
+    height: 600px;
+    width: 300px;
+  }
+
   /* Card Styling on Mobile */
 
   .card {
-    display: grid;
-    min-width: 20rem;
-    background-color: white;
-    justify-content: center;
-    align-items: center;
-    margin: 3rem 0 0 0;
-    border-radius: 1rem;
-    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
-  }
-
-  .eventcards {
     display: grid;
     min-width: 20rem;
     background-color: white;
@@ -214,47 +213,6 @@ footer {
 }
 
 .card-btn:hover {
-  background-color: #111111;
-}
-
-/* Event Card Styling */
-
-.eventcards {
-  display: grid;
-  max-width: 50rem;
-  background-color: white;
-  justify-content: center;
-  margin: 1rem 0 0 0;
-  align-items: center;
-  border-radius: 1rem;
-  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
-}
-
-.eventcard-title {
-  display: grid;
-  justify-content: left;
-  padding: 1rem;
-  color: white;
-  background-color: var(--primary);
-}
-
-.eventcard-content {
-  display: grid;
-  justify-content: left;
-  place-items: start;
-  padding: 0 1rem 0 1rem;
-}
-
-.eventcard-btn {
-  display: grid;
-  color: white;
-  background-color: var(--primary);
-  justify-content: center;
-  padding: 1rem;
-  border-radius: 0 0 1rem 1rem;
-}
-
-.eventcard-btn:hover {
   background-color: #111111;
 }
 

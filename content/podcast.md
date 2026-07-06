@@ -9,4 +9,4 @@ Check out TEC's podcast series TEC Talks, now on [Youtube](https://www.youtube.c
  
 <!-- Uses iframe shortcode as a hugo pipe -->
 
-{{< embed "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0ZiU3XrR_kw0Z6Ewxl1Cd_Y96MQwr83IFqjPrekHSAXAJqMR0Y4gziayDR3Sg8_ZhmVsVcRChU" "735" "950" >}}
+{{< embed "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0ZiU3XrR_kw0Z6Ewxl1Cd_Y96MQwr83IFqjPrekHSAXAJqMR0Y4gziayDR3Sg8_ZhmVsVcRChU" "iframe" >}}
