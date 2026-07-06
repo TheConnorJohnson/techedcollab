@@ -3,7 +3,7 @@ draft = false
 title = "TEC Posts"
 +++
 
-{{< eventcards link="/posts/april-2025-tec-news-events" title="April 2025 TEC News & Events" >}}
+{{< cards link="/posts/april-2025-tec-news-events" title="April 2025 TEC News & Events" >}}
 
 By Christina Eichelkraut — Apr 6, 2025 
 
@@ -19,9 +19,9 @@ Ellington. And, stay tuned for information on a three-session Linux
 workshop for non-techies who want to stop using Windows coming in
 May.
 
-{{< /eventcards >}}
+{{< /cards >}}
 
-{{< eventcards link="/posts/civil-air-patrol" title="Civil Air Patrol" >}}
+{{< cards link="/posts/civil-air-patrol" title="Civil Air Patrol" >}}
 
 By Christina Eichelkraut — Feb 25, 2025
 
@@ -37,4 +37,4 @@ Ellington. And, stay tuned for information on a three-session Linux
 workshop for non-techies who want to stop using Windows coming in
 May.
 
-{{< /eventcards >}}
+{{< /cards >}}
