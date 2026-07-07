@@ -11,4 +11,4 @@ Our agreement with the [Advanced Cyber Systems Lab](https://techshortcuts.com/ac
 
 [Never miss an awesome TEC Event! Sign up for our newsletter!](https://www.zeffy.com/en-US/newsletter-form/never-miss-an-awesome-tec-event?ref=techedcollab.org)
 
-{{< embed "https://calendar.google.com/calendar/embed?src=c_51743f9916e7b1b944314ef55ee088aab234dddf1713d3ae5e405257a2ce3249%40group.calendar.google.com&ctz=America%2FPhoenix" "600" "500" >}}
+{{< embed "https://calendar.google.com/calendar/embed?src=c_51743f9916e7b1b944314ef55ee088aab234dddf1713d3ae5e405257a2ce3249%40group.calendar.google.com&ctz=America%2FPhoenix" "iframe" >}}
