@@ -41,6 +41,18 @@ main {
   overflow: hidden;
 }
 
+.button {
+  display: grid;
+  justify-self: center;
+  color: white;
+  background-color: var(--primary);
+  padding: 1rem;
+  margin: 1rem 0 2rem 0;
+  border-radius: 1rem;
+  width: 30rem;
+  height: 1.5rem;
+}
+
 /*Main navigation*/
 @media screen and (max-width: 2560px) { 
 
@@ -62,8 +74,10 @@ main {
   }
 
   .iframe {
-    height: 700px;
-    width: 600px;
+    display: grid;
+    justify-self: center;
+    height: 43.75rem;
+    width: 42.1875rem;
   }
 }
 
@@ -119,8 +133,10 @@ nav ul li a:hover {
   }
 
   .iframe {
-    height: 600px;
-    width: 300px;
+    display: grid;
+    justify-self: center;
+    height: 37.5rem;
+    width: 18.75rem;
   }
 
   /* Card Styling on Mobile */

@@ -3,6 +3,8 @@ draft = false
 title = 'ACSL Directions & Parking'
 +++
 
+{{< heroimage "/TEC_Directions.webp" "Location of Advanced Cyber Systems Lab on a map." >}}
+
 **GateWay Community College - Washington Campus
 108 N. 40th St.
 Phoenix, AZ 85034**
