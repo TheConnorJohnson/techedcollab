@@ -29,6 +29,13 @@ Wyatt Johnson is the CNT/CIS Program Director at Gateway Community College in Ph
 
 {{< /peoplecards >}}
 
+
+{{< peoplecards title="Andrew Cornwall, Board Member" >}}
+
+Andrew Cornwall is active in the emergency communications community in Arizona. He has managed and taken part in large scale communications exercises and public service events. He is an ARES Emergency Coordinator, a manager of the Arizona Emergency Net-Maricopa training net, and is accredited as an ICS Incident Communication Center Manager (INCM) and Auxiliary Communications (AUXCOMM) resource. He is a trainer and volunteer examiner. 
+
+{{< /peoplecards >}}
+
 {{< peoplecards title="Andrew Karnes, Board Member" >}}
 
 Andrew has enjoyed being a part of creating the Gateway Advanced Cyber Security Lab, a space where students and experienced technologists come together the explore the expanding boundaries of emerging technology and their own growing skills. As a board member of TEC, Andrew hopes to help others gain a more robust understanding of the powers and perils of technology while working on his personal quest to develop less buggy code. In his free time, Andrew is printing an ever-expanding gridfinity system for his impressive home maker space. That will keep him busy for at least a little while.
